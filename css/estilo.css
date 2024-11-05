@@ -1,0 +1,23 @@
+.carousel-item{
+    height: 800px;
+}
+
+.img1{
+    width: 80%;
+}
+
+.titu{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.progress{
+    margin: 15px;
+}
+
+footer{
+    background-color: rgba(79, 79, 228, 0.493);
+    text-align: center;
+    padding-bottom: 15px;
+}
